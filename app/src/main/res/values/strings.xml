@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Just Quiz</string>
+
+    <string name="button_welcome_text">Начать</string>
+    <string name="button_quiz_text">Отправить</string>
+    <string name="button_result_text">Начать заново</string>
+
+    <string name="image_description">welcome image</string>
+    <string name="name_quiz">JUST QUIZ</string>
+    <string name="result_title">Ваш результат:</string>
+
+    <string name="question_1">Сколько лет пирамидам Египта?</string>
+    <string name="answer_to_1_1">10000</string>
+    <string name="answer_to_1_2">15000</string>
+
+    <string name="question_2">Как называется столица Египта?</string>
+    <string name="answer_to_2_1">КАИР</string>
+    <string name="answer_to_2_2">ГИЗА</string>
+
+    <string name="question_3">Как назывался древний город, в котором была величайшая библиотека мира?</string>
+    <string name="answer_to_3_1">Александрия</string>
+    <string name="answer_to_3_2">Гиза</string>
+</resources>
